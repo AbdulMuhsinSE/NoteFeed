@@ -19,6 +19,7 @@ import me.abdulmuhsinse.notefeed.dummy.DummyContent2;
 
 /**
  * Created by AbdulMuhsin on 3/29/2015.
+ * Just a test, hi aj 
  */
 public class ItemFragment2 extends Fragment implements AbsListView.OnItemClickListener {
 
