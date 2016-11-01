@@ -24,7 +24,7 @@ import me.abdulmuhsinse.notefeed.dummy.DummyContent;
  * with a GridView.
  * <p/>
  * Activities containing this fragment MUST implement the {@link OnFragmentInteractionListener}
- * interface.
+ * interface. I'm sorry, i just want a shirt'
  */
 public class ItemFragment extends Fragment implements AbsListView.OnItemClickListener {
 
