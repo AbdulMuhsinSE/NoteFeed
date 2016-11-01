@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.widget.ListView;
 
 /**
- * Created by AbdulMuhsin on 3/28/2015.
+ * Created by AbdulMuhsin and Grady on 3/28/2015 :)
  */
 public class SearchResultsActivity extends Activity {
     @Override
