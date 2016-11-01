@@ -18,7 +18,7 @@ import android.widget.TextView;
 import me.abdulmuhsinse.notefeed.dummy.DummyContent;
 
 /**
- * A fragment representing a list of Items.
+ * A fragment representing a list of Items. Last one i promise.
  * <p/>
  * Large screen devices (such as tablets) are supported by replacing the ListView
  * with a GridView.
